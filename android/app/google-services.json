@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319256460389",
+    "project_id": "laptop-reco",
+    "storage_bucket": "laptop-reco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319256460389:android:11d939f6878648b81dda8c",
+        "android_client_info": {
+          "package_name": "com.example.laptop_reco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319256460389-71242vefln010bdtoi6a51ktj05g6bet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FpT1-ftzz0IoLPC967NHFoNO8exyZKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319256460389-71242vefln010bdtoi6a51ktj05g6bet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
